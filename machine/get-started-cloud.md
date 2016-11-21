@@ -46,7 +46,7 @@ For a full list of the flags/settings available and their defaults, see the outp
 
 When you install Docker Machine, you get a set of drivers for various cloud providers (like Amazon Web Services, Digital Ocean, or Microsoft Azure) and local providers (like Oracle VirtualBox, VMWare Fusion, or Microsoft Hyper-V).
 
-See <a href="../drivers/" target="_blank">Docker Machine driver reference</a> for details on the drivers, including required flags and configuration options (which vary by provider).
+See <a href="../machine/drivers/" target="_blank">Docker Machine driver reference</a> for details on the drivers, including required flags and configuration options (which vary by provider).
 
 ## 3rd-party driver plugins
 
